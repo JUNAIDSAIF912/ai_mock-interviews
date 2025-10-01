@@ -1,3 +1,4 @@
+import dayjs from "dayjs";
 import React from 'react'
 
 const InterviewCard = ({ interviewId, userId, role, type, techstack, createdAt }:InterviewCardProps) => {
