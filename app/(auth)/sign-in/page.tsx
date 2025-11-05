@@ -1,6 +1,12 @@
-import AuthForm from "@/components/AuthForm";
+// import AuthForm from "@/components/AuthForm";
+//
+// const Page = () => {
+//     return <AuthForm type="sign-in"/>
+// }
+// export default Page
 
-const Page = () => {
-    return <AuthForm type="sign-in"/>
+import {redirect} from "next/navigation";
+
+export default function HomePage(){
+    redirect("/sign-in");
 }
-export default Page

@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a23055b-e026-4ac6-a093-e23b487eaca2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/sign-in/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/sign-in/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,7 +124,7 @@
       <workItem from="1762105632110" duration="4319000" />
       <workItem from="1762191177730" duration="5148000" />
       <workItem from="1762276754083" duration="5392000" />
-      <workItem from="1762363948760" duration="5088000" />
+      <workItem from="1762363948760" duration="5462000" />
     </task>
     <task id="LOCAL-00001" summary="setup app, files and folder structure, routing and auth pages">
       <option name="closed" value="true" />
