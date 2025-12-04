@@ -7,7 +7,14 @@
     <list default="true" id="6a23055b-e026-4ac6-a093-e23b487eaca2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(auth)/sign-up/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/sign-up/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/interview/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/interview/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Agent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Agent.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/AuthForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AuthForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase/admin.ts" beforeDir="false" afterPath="$PROJECT_DIR$/firebase/admin.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/actions/auth.action.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/auth.action.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +135,16 @@
       <workItem from="1762363948760" duration="7703000" />
       <workItem from="1762419895470" duration="375000" />
       <workItem from="1762515092470" duration="3913000" />
-      <workItem from="1762537488623" duration="1697000" />
+      <workItem from="1762537488623" duration="3384000" />
+      <workItem from="1762704971755" duration="5052000" />
+      <workItem from="1762873795822" duration="5944000" />
+      <workItem from="1762965772170" duration="454000" />
+      <workItem from="1763052083363" duration="4060000" />
+      <workItem from="1763225721197" duration="5317000" />
+      <workItem from="1763450368406" duration="2727000" />
+      <workItem from="1764344613851" duration="462000" />
+      <workItem from="1764434046523" duration="3304000" />
+      <workItem from="1764867353929" duration="2147000" />
     </task>
     <task id="LOCAL-00001" summary="setup app, files and folder structure, routing and auth pages">
       <option name="closed" value="true" />
@@ -204,6 +220,17 @@
     <option featureType="dependencySupport" implementationName="javascript:npm:react" />
     <option featureType="dependencySupport" implementationName="javascript:npm:tailwindcss" />
     <option featureType="dependencySupport" implementationName="javascript:npm:next" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup app, files and folder structure, routing and auth pages" />
